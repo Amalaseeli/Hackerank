@@ -1,4 +1,16 @@
+''' Task
+Given a base- integer, , convert it to binary (base-). Then find and print the base- integer denoting the maximum number of consecutive 's in 's binary representation. When working with different bases, it is common to show the base as a subscript.
 
+Example
+
+The binary representation of  is . In base , there are  and  consecutive ones in two groups. Print the maximum, .
+
+Input Format
+
+A single integer, .
+
+Print a single base- integer that denotes the maximum number of consecutive 's in the binary representation of .
+'''
 def find_max_ones(num):
     if not num:
         return 0
