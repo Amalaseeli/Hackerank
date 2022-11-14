@@ -9,6 +9,11 @@ Hackerank 30days of challenges
 #### day6: Operator,strings,loops
 #### day7: Array
 #### day8: Phonebook
+#### day9: Recursion
+#### day10: Consecutive numbers
+
+
+
 
 
 
